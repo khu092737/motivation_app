@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:modernlogintute/imageData.dart';
 import 'package:modernlogintute/post_widget.dart';
-import 'package:modernlogintute/avartar_widget.dart';
 //수정 테스트
 
 class home_page extends StatelessWidget
