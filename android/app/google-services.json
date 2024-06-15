@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134465375720",
+    "project_id": "motivationapp-8b474",
+    "storage_bucket": "motivationapp-8b474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134465375720:android:a72403eb5838be6261685d",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9nkTtyD1Z9YDHXc0GtgXKR8Qpt-fJP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
