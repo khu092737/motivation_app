@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:modernlogintute/imageData.dart';
 import 'package:modernlogintute/post_widget.dart';
 import 'package:modernlogintute/avartar_widget.dart';
+//수정 테스트
 
 class home_page extends StatelessWidget
 {
@@ -20,7 +21,7 @@ class home_page extends StatelessWidget
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
-        title: Text("M-mate")
+        title: Text("엠메이트")
       ),
       body: ListView(
         children: [
